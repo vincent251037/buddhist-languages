@@ -41,6 +41,16 @@
   --bg: #0e2318;
 }
 
+// --- 行動端表格橫向滾動 ---
+// 寬表格（如五段動詞活用表、格助詞對照表）在小螢幕自動出現橫向滑動條
+.markdown-content table,
+article table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; // iOS 慣性滾動
+  max-width: 100%;
+}
+
 // --- 暗色模式：極深暖黑（幾乎純黑帶暖調）---
 :root[saved-theme="dark"] {
   --light: #1a1612;
