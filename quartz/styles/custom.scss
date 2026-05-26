@@ -29,16 +29,16 @@
 // --- 「老師怎麼說」摺疊框：暖琥珀/藏黃色系 ---
 // 配合網站整體的佛典暖色調，覆蓋預設的藍灰色 [!note]
 .callout[data-callout="note"] {
-  --color: #b08020;       // 藏黃邊框色
-  --border: #c89428aa;    // 稍透明的邊框
-  --bg: #fdf3e3;          // 極淡暖米底色
+  --color: #4caf7d;       // 清新綠邊框色
+  --border: #4caf7daa;
+  --bg: #e9f5ec;          // 極淡綠底色
 }
 
 // 暗色模式下同步調整
 :root[saved-theme="dark"] .callout[data-callout="note"] {
-  --color: #d4a830;
-  --border: #d4a830aa;
-  --bg: #2d2010;
+  --color: #4caf7d;
+  --border: #4caf7daa;
+  --bg: #0e2318;
 }
 
 // --- 暗色模式：極深暖黑（幾乎純黑帶暖調）---
