@@ -3,3 +3,6 @@ node_modules/
 .quartz-cache/
 public/
 *.log
+
+# Quartz v5 plugin cache (reinstalled via npx quartz plugin install)
+.quartz/plugins/*/
