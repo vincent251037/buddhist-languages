@@ -96,4 +96,4 @@ title: 日文文法學習入口
 
 ---
 
-← [[index|回首頁]]　　　🌉 [[language-bridge|語言橋接點]]
+← [[index|回首頁]]　　　📗 [[sanskrit-grammar-index|梵文文法]]　　　🌉 [[language-bridge|語言橋接點]]

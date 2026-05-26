@@ -90,4 +90,4 @@ title: 梵文文法學習入口
 
 ---
 
-← [[index|回首頁]]　　　🌉 [[language-bridge|語言橋接點]]
+← [[index|回首頁]]　　　📘 [[japanese-grammar-index|日文文法]]　　　🌉 [[language-bridge|語言橋接點]]
